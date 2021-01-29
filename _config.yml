@@ -1,0 +1,23 @@
+title: Programmation Python avancée
+description: Guide pour une pratique élégante et efficace
+author: Xavier Olive
+email: "git@xoolive.org"
+repository: "xoolive/python"
+lang: fr-FR
+github:
+  username: xoolive
+twitter:
+  username: x00live
+google_analytics: "263919436"
+
+social:
+  name: Xavier Olive
+  email: git@xoolive.org
+  links:
+    - https://twitter.com/x00live
+    - https://github.com/xoolive
+
+theme: jekyll-theme-minimal
+
+header_pages:
+  - contents
