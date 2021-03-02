@@ -5,6 +5,7 @@ author: Xavier Olive
 baseurl: "/python"
 email: git@xoolive.org
 repository: xoolive/python
+logo: _static/9782100815982.jpg
 lang: fr-FR
 github_username: xoolive
 twitter_username: x00live
@@ -12,7 +13,7 @@ google_analytics: "263919436"
 
 theme: jekyll-theme-minimal
 
-include: ["_pages"]
+include: ["_pages", "_static"]
 
 header_pages:
   - contents
