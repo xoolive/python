@@ -1,9 +1,13 @@
-# Programmation Python avancée
-
-Cette page, associée au livre _Programmation Python avancée_ aux éditions Dunod (ISBN 978-2-10-081598-2), contient les ressources complémentaires et le code source des exemples présentés.
+---
+title: Accueil
+permalink: /
+---
 
 Disponible le 5 mai 2021: [Dunod](/), [La Librairie](https://www.lalibrairie.com/livres/programmation-python-avancee--guide-pour-une-pratique-efficace_0-7273076_9782100815982.html), [FNAC](https://livre.fnac.com/a15701475/Xavier-Olive-Programmation-Python-avancee-Guide-pour-une-pratique-elegante-et-efficace), [Amazon](https://www.amazon.fr/dp/2100815989/)
 
+## Code source et ressources complémentaires
+
+- [Installation de l'environnement](/python/installation)
 - [Table des matières](/python/contents)
 
 ## À qui s'adresse ce livre?

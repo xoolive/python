@@ -1,7 +1,11 @@
+---
+permalink: /contents
+---
+
 # Table des matières
 
 - [Préface](/python/preface)
-- [Avant-propos](/python)
+- [Avant-propos](/python/)
 - Prologue
 
 ## Partie 1 -- Les bases du langage Python

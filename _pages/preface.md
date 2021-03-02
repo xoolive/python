@@ -1,3 +1,7 @@
+---
+permalink: /preface
+---
+
 # Préface
 
 Lorsque Xavier Olive m'a contacté pour me proposer de relire ce livre que vous tenez actuellement entre les mains, ma première réaction a été « Oh non, encore un livre sur Python! » Un certain nombre de livres sur Python trônent déjà sur les étagères de mon bureau, même s'il est vrai que la plupart sont en anglais. Mais lors de ce premier échange par mail, Xavier a glissé subrepticement le fait qu'il avait pour but d'_écrire le livre qu'il aurait voulu lire_. Cela a eu pour effet immédiat d'attiser ma curiosité et j'ai donc accepté de relire cet ouvrage sans trop savoir où je mettais les pieds. Après avoir relu les quelque 350 pages qui composent ce livre, je réalise que c'était une très bonne décision de ma part tant le livre est agréable à lire, tant sur la forme que sur le fond.
