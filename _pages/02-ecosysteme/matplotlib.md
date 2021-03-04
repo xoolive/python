@@ -1,5 +1,5 @@
 ---
-permalink: /matplotlib
+permalink: /matplotlib/
 title: Chapitre 7
 ---
 
