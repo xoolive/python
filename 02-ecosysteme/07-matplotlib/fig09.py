@@ -38,7 +38,7 @@ for tick in ax.xaxis.get_major_ticks() + ax.yaxis.get_major_ticks():
     tick.label.set_fontsize(16)
     tick.label.set_fontname("Ubuntu")
 
-fig.savefig("fig9_1.png", bbox_inches="tight")
+fig.savefig("fig09_1.png", bbox_inches="tight")
 plt.show()
 
 fig, ax = plt.subplots(figsize=(6, 6))
@@ -61,5 +61,5 @@ for tick in ax.xaxis.get_major_ticks() + ax.yaxis.get_major_ticks():
     tick.label.set_fontsize(16)
     tick.label.set_fontname("Ubuntu")
 
-fig.savefig("fig9_2.png", bbox_inches="tight")
+fig.savefig("fig09_2.png", bbox_inches="tight")
 plt.show()

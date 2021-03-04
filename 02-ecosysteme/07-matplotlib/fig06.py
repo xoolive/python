@@ -40,6 +40,6 @@ for ax_ in ax.ravel():
         tick.label.set_fontname("Ubuntu")
 
 fig.subplots_adjust(hspace=0.3)
-fig.savefig("fig6.png", bbox_inches="tight")
+fig.savefig("fig06.png", bbox_inches="tight")
 
 plt.show()

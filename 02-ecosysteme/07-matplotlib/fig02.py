@@ -11,6 +11,6 @@ for ax_ in ax.ravel():
         tick.label.set_fontsize(14)
         tick.label.set_fontname("Ubuntu")
 
-fig.savefig("fig2.png", bbox_inches="tight")
+fig.savefig("fig02.png", bbox_inches="tight")
 
 plt.show()

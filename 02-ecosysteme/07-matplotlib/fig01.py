@@ -21,6 +21,6 @@ for tick in ax.xaxis.get_major_ticks() + ax.yaxis.get_major_ticks():
     tick.label.set_fontname("Ubuntu")
 
 fig.suptitle("fig.suptitle(txt)", fontname="Ubuntu", fontsize=18)
-fig.savefig("fig1.png", bbox_inches="tight")
+fig.savefig("fig01.png", bbox_inches="tight")
 
 plt.show()

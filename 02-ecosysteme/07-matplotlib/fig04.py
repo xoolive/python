@@ -25,6 +25,6 @@ for ax_ in [ax1, ax2, ax3, ax4, ax5]:
         tick.label.set_fontsize(12)
         tick.label.set_fontname("Ubuntu")
 
-fig.savefig("fig4.png", bbox_inches="tight")
+fig.savefig("fig04.png", bbox_inches="tight")
 
 plt.show()

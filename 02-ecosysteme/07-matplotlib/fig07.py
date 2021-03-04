@@ -61,6 +61,6 @@ for tick in cbar.ax.get_ymajorticklabels():
     tick.set_fontsize(14)
     tick.set_fontname("Ubuntu")
 
-fig.savefig("fig7.png", bbox_inches="tight")
+fig.savefig("fig07.png", bbox_inches="tight")
 
 plt.show()

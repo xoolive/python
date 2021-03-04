@@ -23,5 +23,5 @@ ax.set_rgrids(
     fontname="Ubuntu",
 )
 
-fig.savefig("fig8.png", bbox_inches="tight")
+fig.savefig("fig08.png", bbox_inches="tight")
 plt.show()
