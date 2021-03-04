@@ -20,7 +20,7 @@ permalink: /contents
 
 - 5 -- La suite logicielle Anaconda
 - 6 -- Le calcul numérique avec NumPy
-- 7 -- [Produire des graphiques avec Matplotlib](matplotlib)
+- 7 -- [Produire des graphiques avec Matplotlib](matplotlib/)
 - 8 -- La boîte à outils scientifiques SciPy
 - 9 -- L’environnement interactif Jupyter
 - Interlude -- Reconstruire une carte d’Europe
