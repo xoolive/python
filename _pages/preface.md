@@ -1,4 +1,5 @@
 ---
+title: Préface
 permalink: /preface
 ---
 

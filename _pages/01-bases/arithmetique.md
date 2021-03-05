@@ -5,7 +5,7 @@ title: Chapitre 1
 
 [« Retour](/python/contents)
 
-## Types et arithmétique de base
+## 1. Types et arithmétique de base
 
 ### 1.1 Les entiers
 

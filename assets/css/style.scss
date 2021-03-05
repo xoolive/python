@@ -3,12 +3,20 @@
 
 @import "{{ site.theme }}";
 
+@import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
+
 code {
-  font-size: 90%;
+  font-size: 95%;
+  font-family: Fira Code, monospace;
+  color: #727272;
+}
+
+.hljs {
+  font-size: 95%;
 }
 
 header {
-  width: 860px;
+  width: auto;
   background-color: white;
   padding: 20px 20px 0px 20px;
   margin-top: -60px;
@@ -19,7 +27,7 @@ header .view {
 }
 
 section {
-  width: 700px;
+  width: 90%;
   padding-top: 80px;
 }
 
@@ -29,4 +37,76 @@ footer {
 
 h1 {
   font-size: 20pt;
+}
+
+a.logo img {
+  width: 250px;
+  margin: 30px 0px 30px 30px;
+  display: block;
+  float: right
+}
+
+.buy {
+  margin: 10px;
+}
+
+.buy li {
+  margin: 0 2px;
+  display: inline; 
+}
+
+.buy li :before {
+  content: "|";
+  padding-right: 8px;
+  color: #727272;
+}
+
+.buy li:first-child ::before {
+  content: unset;
+}
+
+.buy ul {
+  display: inline;
+  font-size: 95%;
+  list-style: none outside none;
+  padding-left: 0px;
+}
+
+@media print, screen and (max-width: 960px) {
+
+  header {
+    margin-top: 0px;
+    padding: 5px;
+  }
+
+  section {
+    width: auto;
+    padding-top: 20px;
+  }
+
+}
+
+@media print, screen and (max-width: 480px) {
+
+  .emgithub-container {
+    visibility: hidden;
+    position: relative;
+  }
+
+  .emgithub-container:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Attention: tourner l'écran en mode paysage pour voir le code source.";
+    font-style: italic;
+    color: #d73a49;
+  }
+
+  a.logo img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    float: unset;
+  }
 }

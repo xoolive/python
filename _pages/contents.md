@@ -1,6 +1,9 @@
 ---
+title: Table des matières
 permalink: /contents
 ---
+
+[« Retour](/python/)
 
 # Table des matières
 

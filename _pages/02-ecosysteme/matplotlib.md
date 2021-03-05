@@ -5,7 +5,7 @@ title: Chapitre 7
 
 [« Retour](/python/contents)
 
-## Produire des graphiques avec Matplotlib
+## 7. Produire des graphiques avec Matplotlib
 
 Toutes les figures présentes dans ce chapitre sont disponibles sur cette page, avec un rendu en couleur, et interactif pour l'animation.
 

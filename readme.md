@@ -1,24 +1,34 @@
 ---
-title: Accueil
 permalink: /
 ---
 
-Disponible le 5 mai 2021: [Dunod](/), [La Librairie](https://www.lalibrairie.com/livres/programmation-python-avancee--guide-pour-une-pratique-efficace_0-7273076_9782100815982.html), [FNAC](https://livre.fnac.com/a15701475/Xavier-Olive-Programmation-Python-avancee-Guide-pour-une-pratique-elegante-et-efficace), [Amazon](https://www.amazon.fr/dp/2100815989/)
+<div class="buy">
+Disponible le 5 mai 2021 chez
+<ul>
+  <li><a href="/">Dunod</a></li>
+  <li><a href="https://www.lalibrairie.com/livres/programmation-python-avancee--guide-pour-une-pratique-efficace_0-7273076_9782100815982.html">La Librairie</a></li>
+  <li><a href="https://livre.fnac.com/a15701475/Xavier-Olive-Programmation-Python-avancee-Guide-pour-une-pratique-elegante-et-efficace">FNAC</a></li>
+  <li><a href="https://www.amazon.fr/dp/2100815989/">Amazon</a></li>
+</ul>
+</div>
 
-- [Table des matières](/python/contents)
-- [Installation de l'environnement](/python/installation)
-
-<a href="https://www.xoolive.org/python/">
+<a href="https://www.amazon.fr/dp/2100815989/" class="logo">
   <img src="https://www.xoolive.org/python/_static/9782100815982_thumb.jpg"
-       alt="Programmation Python avancée" width="250px" align="right"
-       style="margin: 40px 0px 30px 30px"/>
+       alt="Programmation Python avancée" />
 </a>
+
+Le code source associé aux exemples du livre est accessible par chapitre, depuis la [table des matières](/python/contents). Il est également possible de cloner l'arborescence complète depuis la page GitHub:
+
+[https://github.com/xoolive/python](https://github.com/xoolive/python)
+
+- [Installation de l'environnement](/python/installation)
+- [Table des matières](/python/contents)
 
 ## À qui s'adresse ce livre?
 
 Ce livre s'adresse à un public qui a déjà une bonne expérience de la programmation, que celle-ci soit avec Python ou non. L'ouvrage propose différentes grilles de lecture, avec un contenu théorique de base et des chapitres complémentaires, adaptés à une deuxième lecture. Ceux-ci seront une opportunité de mettre en pratique les concepts et les outils sur des exemples engageants. L'objectif est de présenter au lecteur un ouvrage qui rappelle les concepts-clés pour une utilisation idiomatique du langage et qui les illustre dans des cadres d'utilisation variés.
 
-Si vous débutez en programmation et souhaitez apprendre Python, ce livre sera difficile à suivre. Les structures de données sont reprises en détail, mais la syntaxe du langage et les fondements de la programmation ne sont pas traités. L'ouvrage [_Python 3_](https://github.com/lpointal/appbclp), de Bob Cordeau et Laurent Pointal aux éditions Dunod, est plus adapté pour s'initier au langage, apprendre des notions élémentaires (boucles, valeurs, expressions, variables, etc.) et découvrir la syntaxe.
+Si vous débutez en programmation et souhaitez apprendre Python, ce livre sera difficile à suivre. Les structures de données sont reprises en détail, mais la syntaxe du langage et les fondements de la programmation ne sont pas traités. L'ouvrage [_Python 3 -- Apprendre à programmer dans l'écosystème Python_](https://www.dunod.com/sciences-techniques/python-3-apprendre-programmer-dans-ecosysteme-python), de Bob Cordeau et Laurent Pointal aux éditions Dunod, est plus adapté pour s'initier au langage, apprendre des notions élémentaires (boucles, valeurs, expressions, variables, etc.) et découvrir la syntaxe.
 
 ## Comment est construit ce livre?
 
