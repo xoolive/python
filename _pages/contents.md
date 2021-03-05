@@ -10,7 +10,7 @@ permalink: /contents
 
 ## Partie 1 -- Les bases du langage Python
 
-- 1 -- Types et arithmétique de base
+- 1 -- [Types et arithmétique de base](arithmetique/)
 - 2 -- La bibliothèque Python standard
 - 3 -- La gestion des fichiers [(pdf)](/)
 - 4 -- Structures de données avancées
@@ -25,7 +25,7 @@ permalink: /contents
 - 9 -- L’environnement interactif Jupyter
 - Interlude -- Reconstruire une carte d’Europe
 - 10 -- L’analyse de données avec Pandas [(pdf)](/)
-- 11 -- La visualisation interactive avec Altair et ipyleaflet
+- 11 -- [La visualisation interactive avec Altair et ipyleaflet](altair/)
 
 ## Partie 3 -- Écrire un Python naturel et efficace
 
