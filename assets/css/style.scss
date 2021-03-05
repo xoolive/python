@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+code {
+  font-size: 90%;
+}
+
+header {
+  width: 860px;
+  background-color: white;
+  padding: 20px 20px 0px 20px;
+  margin-top: -60px;
+}
+
+header .view {
+  display: none;
+}
+
+section {
+  width: 700px;
+  padding-top: 80px;
+}
+
+footer {
+  display: none;
+}
+
+h1 {
+  font-size: 20pt;
+}
