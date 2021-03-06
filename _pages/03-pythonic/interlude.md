@@ -1,8 +1,7 @@
 ---
 permalink: /fmradio/
 title: Interlude
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## Interlude

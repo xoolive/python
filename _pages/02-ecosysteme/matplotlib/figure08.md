@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig08
 title: Figure 7.8
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.8
 
 Exemple de visualisation avec un système d’axes polaires: la courbe papillon de Temple Fay
 

@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig18
 title: Figure 7.18
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.18
 
 Figure à animer pour illustrer la construction de la fonction sinus
 

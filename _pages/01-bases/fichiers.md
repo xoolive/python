@@ -1,9 +1,8 @@
 ---
 permalink: /fichiers/
 title: Chapitre 3
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 3. La gestion des fichiers
 

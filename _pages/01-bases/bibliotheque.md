@@ -1,9 +1,8 @@
 ---
 permalink: /bibliotheque/
 title: Chapitre 2
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 2. La bibliothèque Python standard
 

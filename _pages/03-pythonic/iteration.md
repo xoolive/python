@@ -1,9 +1,8 @@
 ---
 permalink: /iteration/
 title: Chapitre 14
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 14. Itérateurs, générateurs et coroutines
 

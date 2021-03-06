@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig13
 title: Figure 7.13
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.13
 
 Quelques tables de couleurs proposées par Matplotlib
 

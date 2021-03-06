@@ -1,9 +1,8 @@
 ---
 permalink: /swiss-army/
 title: Chapitre 19
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 19. Comment manipuler des formats de fichiers courants?
 

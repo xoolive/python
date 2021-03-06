@@ -1,9 +1,8 @@
 ---
 permalink: /typing/
 title: Chapitre 24
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 24. Annotations et typage statique
 

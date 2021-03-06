@@ -1,9 +1,8 @@
 ---
 permalink: /meta/
 title: Chapitre 17
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 17. L'ABC de la métaprogrammation
 

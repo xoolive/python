@@ -1,9 +1,8 @@
 ---
 permalink: /arithmetique/
 title: Chapitre 1
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 1. Types et arithmétique de base
 

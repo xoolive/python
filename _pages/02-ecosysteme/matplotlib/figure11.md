@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig11
 title: Figure 7.11
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.11
 
 Quelques couleurs proposées par Matplotlib
 

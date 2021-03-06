@@ -1,9 +1,8 @@
 ---
 permalink: /objects/
 title: Chapitre 15
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 15. La programmation orientée objet
 

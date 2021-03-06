@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig02
 title: Figure 7.2
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.2
 
 Une figure complexe peut contenir plusieurs systèmes d’axes alignés.
 

@@ -1,9 +1,8 @@
 ---
 permalink: /altair/
 title: Chapitre 11
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 11. La visualisation interactive avec Altair et ipyleaflet
 

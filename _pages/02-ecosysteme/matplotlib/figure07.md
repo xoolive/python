@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig07
 title: Figure 7.7
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.7
 
 Les informations en trois dimensions peuvent être affichées sous forme de cartes de densité `pcolormesh()`, de lignes de niveaux `contour()`, de champs de gradients `quiver()` ou de graphes en trois dimensions `plot_surface()`.
 

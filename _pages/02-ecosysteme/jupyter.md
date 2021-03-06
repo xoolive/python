@@ -1,9 +1,8 @@
 ---
 permalink: /jupyter/
 title: Chapitre 9
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 9. L'environnement interactif Jupyter
 

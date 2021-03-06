@@ -1,9 +1,8 @@
 ---
 permalink: /structures/
 title: Chapitre 4
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 4. Structures de données avancées
 

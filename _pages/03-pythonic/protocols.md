@@ -1,9 +1,8 @@
 ---
 permalink: /protocols/
 title: Chapitre 16
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 16. Interfaces et protocoles
 

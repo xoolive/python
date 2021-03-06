@@ -1,9 +1,8 @@
 ---
 permalink: /anaconda/
 title: Chapitre 5
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 5. La suite logicielle Anaconda
 

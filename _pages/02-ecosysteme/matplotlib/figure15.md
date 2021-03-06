@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig15
 title: Figure 7.15
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.15
 
 Textes et annotations sur une figure
 

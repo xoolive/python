@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig16
 title: Figure 7.16
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.16
 
 Feuilles de style couramment utilisées avec Matplotlib
 

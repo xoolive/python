@@ -1,9 +1,8 @@
 ---
 permalink: /matplotlib/
 title: Chapitre 7
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 7. Produire des graphiques avec Matplotlib
 

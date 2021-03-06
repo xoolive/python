@@ -1,9 +1,8 @@
 ---
 permalink: /numpy/
 title: Chapitre 6
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 6. Le calcul numérique avec NumPy
 

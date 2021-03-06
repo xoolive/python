@@ -1,9 +1,8 @@
 ---
 permalink: /api/
 title: Chapitre 25
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 25. Comment écrire une API Python vers une bibliothèque C?
 

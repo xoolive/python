@@ -1,11 +1,8 @@
 ---
 title: Table des matières
 permalink: /contents
+back: /python/
 ---
-
-[« Retour](/python/)
-
-# Table des matières
 
 - [Préface](/python/preface)
 - [Avant-propos](/python/)

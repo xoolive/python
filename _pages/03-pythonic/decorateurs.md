@@ -1,9 +1,8 @@
 ---
 permalink: /decorateurs/
 title: Chapitre 13
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 13. Décorateurs de fonctions et fermetures
 

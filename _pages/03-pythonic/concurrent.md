@@ -1,10 +1,8 @@
 ---
 permalink: /concurrent/
 title: Chapitre 18
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
-
 ## 18. La programmation concurrente
 
 ### 18.1 La gestion des processus externes

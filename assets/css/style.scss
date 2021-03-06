@@ -5,9 +5,54 @@
 
 @import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
 
+@font-face {
+  font-family: "URW DIN";
+  src: url("/python/assets/fonts/URW DIN W05 Regular.woff2") format("woff2"), 
+  url("/python/assets/fonts/URW DIN W05 Regular.woff") format("woff"),
+  url("/python/assets/fonts/URW DIN W05 Regular.ttf") format("truetype")
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+} 
+
+@font-face {
+  font-family: "URW DIN";
+  src: url("/python/assets/fonts/URW DIN W05 Medium.woff2") format("woff2"),
+  url("/python/assets/fonts/URW DIN W05 Medium.woff") format("woff"),
+  url("/python/assets/fonts/URW DIN W05 Medium.ttf") format("truetype")
+  ;
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+} 
+
+@font-face {
+  font-family: "URW DIN Semi-Condensed";
+  src: url("/python/assets/fonts/URW DIN SemiCond W05 Demi.woff2") format("woff2"),
+   url("/python/assets/fonts/URW DIN SemiCond W05 Demi.woff") format("woff"),
+   url("/python/assets/fonts/URW DIN SemiCond W05 Demi.ttf") format("truetype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 600;
+}
+
+body {
+  font-family: "URW DIN";
+}
+
+h1 {
+  font-family: "URW DIN Semi-Condensed";
+  font-weight: 600;
+  font-size: 20pt;
+}
+
+h1, h2, h3 {
+	line-height: 1.3;
+}
+
 code {
   font-size: 95%;
-  font-family: Fira Code, monospace;
+  font-family: "Fira Code";
   color: #727272;
 }
 
@@ -18,7 +63,7 @@ code {
 header {
   width: auto;
   background-color: white;
-  padding: 20px 20px 0px 20px;
+  padding: 20px 20px 10px 20px;
   margin-top: -60px;
 }
 
@@ -26,17 +71,21 @@ header .view {
   display: none;
 }
 
+header p {
+  margin: 0 0 10px;
+}
+
+header h1 {
+  margin: 0 0 10px;
+}
+
 section {
   width: 90%;
-  padding-top: 80px;
+  padding-top: 85px;
 }
 
 footer {
   display: none;
-}
-
-h1 {
-  font-size: 20pt;
 }
 
 a img {
@@ -103,9 +152,15 @@ a.logo img {
     position: absolute;
     top: 0;
     left: 0;
+    min-width: 80%;
+    min-height: 150px;
+    background-image: url("/python/_static/rotate.png");
+    background-origin: content-box;
+    background-position-x: center;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
     content: "Attention: tourner l'écran en mode paysage pour voir le code source.";
     font-style: italic;
-    color: #d73a49;
   }
 
   a.logo img {

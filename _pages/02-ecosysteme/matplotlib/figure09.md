@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig09
 title: Figure 7.9
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.9
 
 On peut combiner plusieurs styles de visualisations sur le même système d’axes.
 

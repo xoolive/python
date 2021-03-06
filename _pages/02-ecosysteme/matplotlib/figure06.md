@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig06
 title: Figure 7.6
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.6
 
 De nombreux types de visualisations répondent à différents besoins: courbes simples `plot()`, histogrammes pour les densités `hist()`, nuages de points `scatter()` ou boîtes à moustaches `boxplot()`.
 

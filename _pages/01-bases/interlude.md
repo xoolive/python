@@ -1,8 +1,7 @@
 ---
 permalink: /cassini/
 title: Interlude
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## Interlude

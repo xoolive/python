@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig14
 title: Figure 7.14
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.14
 
 Spécification des axes et graduations
 

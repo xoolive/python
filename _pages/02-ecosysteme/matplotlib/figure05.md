@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig05
 title: Figure 7.5
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.5
 
 L’argument `gridspec_kw` permet d’éviter de définir une grille manuellement.
 

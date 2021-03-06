@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig04
 title: Figure 7.4
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.4
 
 Les placements les plus sophistiqués peuvent se faire sur une grille.
 

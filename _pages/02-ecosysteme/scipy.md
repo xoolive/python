@@ -1,9 +1,8 @@
 ---
 permalink: /scipy/
 title: Chapitre 8
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 8. La boîte à outils scientifiques SciPy
 

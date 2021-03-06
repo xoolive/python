@@ -1,9 +1,8 @@
 ---
 permalink: /pandas/
 title: Chapitre 10
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 10. L'analyse de données avec Pandas
 

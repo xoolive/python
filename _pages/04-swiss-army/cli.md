@@ -1,9 +1,8 @@
 ---
 permalink: /cli/
 title: Chapitre 21
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 21. Comment écrire un outil graphique ou en ligne de commande?
 

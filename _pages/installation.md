@@ -1,8 +1,5 @@
 ---
 title: Installation de l'environnement
 permalink: /installation
+back: /python
 ---
-
-[« Retour](/python/)
-
-# Installation de l'environnement

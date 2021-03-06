@@ -1,9 +1,8 @@
 ---
 permalink: /testing/
 title: Chapitre 23
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 23. Mettre en place un environnement de tests
 

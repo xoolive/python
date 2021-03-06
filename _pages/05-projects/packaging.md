@@ -1,9 +1,8 @@
 ---
 permalink: /packaging/
 title: Chapitre 22
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 22. Publier une bibliothèque Python
 

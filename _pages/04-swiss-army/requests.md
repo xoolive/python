@@ -1,9 +1,8 @@
 ---
 permalink: /requests/
 title: Chapitre 20
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
 
 ## 20. Comment interroger et construire des services web?
 

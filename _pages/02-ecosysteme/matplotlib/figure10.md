@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig10
 title: Figure 7.10
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.10
 
 Spécification du style à la création d’un type de visualisation
 

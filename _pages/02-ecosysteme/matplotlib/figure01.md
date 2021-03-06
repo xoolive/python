@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig01
 title: Figure 7.1
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.1
 
 Une figure simple n’utilise qu’un seul système d’axes.
 

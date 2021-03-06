@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig17
 title: Figure 7.17
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.17
 
 Projections courantes avec Cartopy
 

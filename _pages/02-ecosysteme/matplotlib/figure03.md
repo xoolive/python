@@ -1,11 +1,8 @@
 ---
 permalink: /matplotlib/fig03
 title: Figure 7.3
+back: /python/matplotlib
 ---
-
-[« Retour](/python/matplotlib)
-
-## Figure 7.3
 
 Une figure complexe peut contenir plusieurs systèmes d’axes intégrés.
 

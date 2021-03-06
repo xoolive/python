@@ -1,10 +1,8 @@
 ---
 permalink: /functional/
 title: Chapitre 12
+back: /python/contents
 ---
-
-[« Retour](/python/contents)
-
 ## 12. La programmation fonctionnelle
 
 ### 12.1 Les fonctions d'ordre supérieur
