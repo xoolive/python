@@ -18,7 +18,9 @@ def pile_d_appel(fonction):
         print(f"{' '*indentation}[{elapsed:0.8f}s] {name}({arg_str}) -> ...")
         result = fonction(*args)
         elapsed = time.perf_counter() - t0
-        print(f"{' '*indentation}[{elapsed:0.8f}s] {name}({arg_str}) -> {result}")
+        print(
+            f"{' '*indentation}[{elapsed:0.8f}s] {name}({arg_str}) -> {result}"
+        )
         indentation -= 1
 
         return result
