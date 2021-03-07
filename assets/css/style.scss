@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css);
+
+.alert {
+  position: unset;
+}
+
 @import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
 
 @font-face {
