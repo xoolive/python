@@ -1,0 +1,7 @@
+---
+permalink: /bibliotheque/timezones
+title: Le module zoneinfo (Python 3.9)
+back: /python/bibliotheque
+---
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F01-bases%2F02-bibliotheque%2Ftimezones.py&style=github-gist&showLineNumbers=on"></script>

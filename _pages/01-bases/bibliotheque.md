@@ -12,8 +12,12 @@ back: /python/contents
 
 ### 2.3 La gestion du temps
 
+- [Le module zoneinfo (Python 3.9)](timezones)
+
 ### 2.4 Les expressions régulières
 
 ### 2.5 Les tests unitaires intégrés à la documentation
+
+- [Calcul du PGCD](pgcd)
 
 ### 2.6 L'introspection

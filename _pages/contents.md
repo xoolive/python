@@ -12,7 +12,7 @@ back: /python/
 
 - 1 -- [Types et arithmétique de base](arithmetique/)
 - 2 -- [La bibliothèque Python standard](bibliotheque/)
-- 3 -- [La gestion des fichiers](fichiers/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/)
+- 3 -- [La gestion des fichiers](fichiers/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/fichiers.pdf)
 - 4 -- [Structures de données avancées](structures/)
 - Interlude -- [Calcul du rayon de la Terre](cassini/)
 
