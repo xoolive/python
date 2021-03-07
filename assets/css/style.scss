@@ -81,6 +81,10 @@ code {
   color: #727272;
 }
 
+h1, h2, h3 code {
+  font-weight: lighter;
+}
+
 .hljs {
   font-size: 95%;
 }
@@ -188,14 +192,20 @@ a.logo img {
     top: 0;
     left: 0;
     min-width: 80%;
-    min-height: 150px;
+    min-height: 180px;
     background-image: url("/python/_static/rotate.png");
     background-origin: content-box;
     background-position-x: center;
     background-position-y: bottom;
     background-repeat: no-repeat;
-    content: "Attention: tourner l'écran en mode paysage pour voir le code source.";
+    content: "Tourner l'écran en mode paysage pour voir le code source.";
     font-style: italic;
+    border: 1px solid transparent;
+    margin-bottom: 1rem;
+    padding: 1rem 1rem;
+    color: #664d03;
+    background-color: #fff3cd;
+    border-color: #ffecb5;
   }
 
   a.logo img {
