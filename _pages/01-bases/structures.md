@@ -14,7 +14,12 @@ back: /python/contents
 
 ### 4.4 `Counter`: dictionnaires de dénombrement d’objets
 
+- [Jeux de dés](jeux_de_des)
+
 ### 4.5 `deque`: files et piles
+
+- [Calcul de moyenne par fenêtre glissante](fenetre_glissante)
+- [La notation polonaise inverse](polonaise)
 
 ### 4.6 `heapq`: files de priorité basées sur des tas
 
