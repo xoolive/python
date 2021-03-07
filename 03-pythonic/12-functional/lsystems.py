@@ -1,7 +1,10 @@
-from dataclasses import dataclass, field
 from collections import deque
+from dataclasses import dataclass, field
+from functools import partial, reduce
+from itertools import count
 from typing import List
-from functools import reduce, partial
+
+import matplotlib.pyplot as plt
 import numpy as np
 
 # Définition des types
@@ -200,8 +203,6 @@ crystal = LSystem(
 
 # Affichage dans Matplotlib
 
-import matplotlib.pyplot as plt
-from itertools import count
 
 designs = [courbe_de_koch, serpinsky, bushy_tree, hilbert, flow_snake, crystal]
 
