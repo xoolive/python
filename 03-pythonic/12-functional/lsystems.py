@@ -214,8 +214,7 @@ for i, ax_, design in zip(count(), ax.ravel(), designs):
     else:
         ax_.plot(x, y, "k")
     ax_.set_aspect(1)
-    ax_.xaxis.set_visible(False)
-    ax_.yaxis.set_visible(False)
+    ax_.axis("off")
 
 fig.set_tight_layout(True)
 
