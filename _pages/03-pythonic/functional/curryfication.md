@@ -2,6 +2,8 @@
 permalink: /functional/curryfication
 title: Curryfication et fonction partial
 back: /python/functional
+layout: code
+partie: 03-pythonic
+chapitre: 12-functional
+code: curryfication.py
 ---
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F03-pythonic%2F12-functional%2Fcurryfication.py&style=github-gist&showLineNumbers=on"></script>

@@ -2,6 +2,8 @@
 permalink: /structures/fenetre_glissante
 title: Calcul de moyenne par fenêtre glissante
 back: /python/structures
+layout: code
+partie: 01-bases
+chapitre: 04-structures
+code: fenetre_glissante.py
 ---
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F01-bases%2F04-structures%2Ffenetre_glissante.py&style=github-gist&showLineNumbers=on"></script>

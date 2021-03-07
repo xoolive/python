@@ -2,6 +2,8 @@
 permalink: /functional/fibonacci
 title: Autour de la suite de Fibonacci
 back: /python/functional
+layout: code
+partie: 03-pythonic
+chapitre: 12-functional
+code: fibonacci.py
 ---
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F03-pythonic%2F12-functional%2Ffibonacci.py&style=github-gist&showLineNumbers=on"></script>

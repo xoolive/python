@@ -2,6 +2,10 @@
 permalink: /functional/lsystems
 title: L-systèmes
 back: /python/functional
+layout: code
+partie: 03-pythonic
+chapitre: 12-functional
+code: lsystems.py
 ---
 
 <div class="alert alert-warning">
@@ -9,5 +13,3 @@ back: /python/functional
 </div>
 
 ![L-systèmes](/python/_static/lsystems.png)
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F03-pythonic%2F12-functional%2Flsystems.py&style=github-gist&showLineNumbers=on"></script>

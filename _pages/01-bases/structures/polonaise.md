@@ -2,6 +2,10 @@
 permalink: /structures/polonaise
 title: La notation polonaise inverse
 back: /python/structures
+layout: code
+partie: 01-bases
+chapitre: 04-structures
+code: polonaise.py
 ---
 
 La notation polonaise inverse est une pratique d'écriture d'opérations arithmétiques, populaire dans les années 1960, qui permet de ne pas utiliser de parenthèses. Les opérateurs arithmétiques sont utilisés en position *suffixe*.
@@ -13,5 +17,3 @@ Cette notation permet d'*empiler* des opérations et des résultats intermédiai
 La structure de deque permet d'empiler des opérations pour interpréter une séquence écrite en notation polonaise inverse:
 - les nombres (ici entiers) sont simplement empilés avec l'opération `.append()`;
 - les opérateurs (ici chaînes de caractères) dépilent avec l'opération `.pop()` les deux dernières valeurs de la pile, évaluent l'opération et empilent le résultat.
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F01-bases%2F04-structures%2Fpolonaise.py&style=github-gist&showLineNumbers=on"></script>

@@ -2,6 +2,10 @@
 permalink: /fichiers/drapeaux
 title: Les drapeaux du monde
 back: /python/fichiers
+layout: code
+partie: 01-bases
+chapitre: 03-fichiers
+code: drapeaux.py
 ---
 
 ## Taux de compression PNG et ZIP des drapeaux du monde
@@ -35,5 +39,3 @@ back: /python/fichiers
 <img src="https://flagcdn.com/h80/pl.png" class="flag" width="100px" alt="pl"> 
 <img src="https://flagcdn.com/h80/mc.png" class="flag" width="100px" alt="mc"> 
 <img src="https://flagcdn.com/h80/lv.png" class="flag" width="100px" alt="lv"> 
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F01-bases%2F03-fichiers%2Fdrapeaux.py&style=github-gist&showLineNumbers=on"></script>
