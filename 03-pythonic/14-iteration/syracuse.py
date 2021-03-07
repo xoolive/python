@@ -29,7 +29,9 @@ ax.tick_params(
     pad=10,
 )
 ax.set_title(
-    "Parcours de la suite de Syracuse initialisée à 27", fontname="Ubuntu", fontsize=16
+    "Parcours de la suite de Syracuse initialisée à 27",
+    fontname="Ubuntu",
+    fontsize=16,
 )
 ax.spines["right"].set_visible(False)
 ax.spines["top"].set_visible(False)
@@ -72,7 +74,9 @@ ax.set_yticklabels([1 << i for i in range(1, 17)])
 interval = range(1, 200)
 ax.plot(interval, [max(syracuse(i)) for i in interval], "k.")
 
-ax.set_title("Hauteur de la suite de la Syracuse", fontname="Ubuntu", fontsize=16)
+ax.set_title(
+    "Hauteur de la suite de la Syracuse", fontname="Ubuntu", fontsize=16
+)
 
 ax.tick_params(
     which="major",  # sélection

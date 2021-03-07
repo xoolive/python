@@ -15,7 +15,9 @@ chaine = functools.reduce(
     lambda x, f: f(x), [mul_2, add_1, add_1, mul_2, add_1], range(10)  # ③
 )
 
-print(f"Avec des générateurs: [mul_2, add_1, add_1, mul_2, add_1]\n    {list(chaine)}")
+print(
+    f"Avec des générateurs: [mul_2, add_1, add_1, mul_2, add_1]\n    {list(chaine)}"
+)
 
 
 def coroutine(fun):
@@ -59,4 +61,6 @@ chaine = functools.reduce(
 for elt in range(10):
     chaine.send(elt)
 
-print(f"Avec des coroutines: [add_1, mul_2, add_1, add_1, mul_2]\n    {resultat}")
+print(
+    f"Avec des coroutines: [add_1, mul_2, add_1, add_1, mul_2]\n    {resultat}"
+)
