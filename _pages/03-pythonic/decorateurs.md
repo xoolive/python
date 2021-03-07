@@ -18,7 +18,7 @@ back: /python/contents
 
 ### 13.3 Les décorateurs dans la bibliothèque functools
 
-- [La mémoïsation avec `@lru_cache`](memoisation)
+- [La mémoïsation avec @lru_cache](memoisation)
 
 ### 13.4 Décorateurs paramétrés
 
