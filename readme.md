@@ -17,12 +17,14 @@ Disponible le 5 mai 2021 chez
        alt="Programmation Python avancée" />
 </a>
 
-Le code source associé aux exemples du livre est accessible par chapitre, depuis la [table des matières](/python/contents). Il est également possible de cloner l'arborescence complète depuis la page GitHub:
+## Code source
 
-[https://github.com/xoolive/python](https://github.com/xoolive/python)
+**Le code source associé aux exemples du livre est accessible par chapitre, depuis la [table des matières](/python/contents)**. Il est également possible de cloner l'arborescence complète depuis la page GitHub: [https://github.com/xoolive/python](https://github.com/xoolive/python).
 
-- [Installation de l'environnement](/python/installation)
+L'[installation de l'environnement](/python/installation) est également détaillée.
+
 - [Table des matières](/python/contents)
+- [Installation de l'environnement](/python/installation)
 
 ## À qui s'adresse ce livre?
 

@@ -94,14 +94,17 @@ img.flag {
 
 a img {
   vertical-align: middle;
-  margin-left: 10px;
+  margin-left: .2em;
+  margin-top: -.2em;
+  height: 1.2em;
 }
 
 a.logo img {
   width: 250px;
+  height: auto;
   margin: 30px 0px 30px 30px;
   display: block;
-  float: right
+  float: right;
 }
 
 .buy {
