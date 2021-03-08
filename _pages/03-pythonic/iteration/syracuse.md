@@ -16,12 +16,12 @@ Les résultats intéressants pour cette suite peuvent être:
 
 - la séquence complète de valeurs qui démarrent à un entier donné
 
-![Parcours de la suite de Syracuse](/python/_static/syracuse_27.png){: style="max-width: 50%;"}
+![Parcours de la suite de Syracuse](/python/_static/syracuse_27.png){: class="rendu_code"}
 
 - la longueur de cette suite: combien faut-il d'itérations pour atteindre la valeur 1?
 
-![Longueur de la suite de Syracuse](/python/_static/syracuse_length.png){: style="max-width: 50%;"}
+![Longueur de la suite de Syracuse](/python/_static/syracuse_length.png){: class="rendu_code"}
 
 - la hauteur de cette suite: quelle est la valeur maximale atteinte par la suite avant de converger vers 1?
 
-![Hauteur de la suite de Syracuse](/python/_static/syracuse_height.png){: style="max-width: 50%;"}
+![Hauteur de la suite de Syracuse](/python/_static/syracuse_height.png){: class="rendu_code"}
