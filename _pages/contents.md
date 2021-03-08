@@ -24,7 +24,7 @@ back: /python/
 - 8 -- [La boîte à outils scientifiques SciPy](scipy/)
 - 9 -- [L’environnement interactif Jupyter](jupyter/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](/)
 - Interlude -- [Reconstruire une carte d’Europe](projections/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](/)
-- 10 -- [L’analyse de données avec Pandas](pandas/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/)
+- 10 -- [L’analyse de données avec Pandas](pandas/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/pandas.pdf)
 - 11 -- [La visualisation interactive avec Altair et ipyleaflet](altair/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](/)
 
 ## Partie 3 -- Écrire un Python naturel et efficace
@@ -48,7 +48,7 @@ back: /python/
 
 - 22 -- [Publier une bibliothèque Python](packaging/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
 - 23 -- [Mettre en place un environnement de tests](testing/)
-- 24 -- [Annotations et typage statique](typing/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/)
+- 24 -- [Annotations et typage statique](typing/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/typing.pdf)
 - 25 -- [Comment écrire une API Python vers une bibliothèque C?](api/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
 
 - Pour aller plus loin

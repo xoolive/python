@@ -6,6 +6,8 @@ back: /python/contents
 
 ## 24. Annotations et typage statique
 
+Ce chapitre est disponible intégralement au format [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/typing.pdf).
+
 ### 24.1 L'outil Mypy
 
 ### 24.2 L'annotation des fonctions
