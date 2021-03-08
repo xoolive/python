@@ -31,7 +31,7 @@ back: /python/
 
 - 12 -- [La programmation fonctionnelle](functional/)
 - 13 -- [Décorateurs de fonctions et fermetures](decorateurs/)
-- 14 -- [Itérateurs, générateurs et coroutines](iteration/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/)
+- 14 -- [Itérateurs, générateurs et coroutines](iteration/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/iteration.pdf)
 - 15 -- [La programmation orientée objet](objects/)
 - 16 -- [Interfaces et protocoles](protocols/)
 - 17 -- [L’ABC de la métaprogrammation](meta/)
