@@ -1,6 +1,6 @@
 ---
 permalink: /protocols/dunder_enter
-title: Les méthodes __enter__ et __exit__
+title: Les méthodes `__enter__` et `__exit__`
 back: /python/protocols/
 layout: code
 partie: 03-pythonic
