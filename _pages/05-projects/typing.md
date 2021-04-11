@@ -14,8 +14,15 @@ Ce chapitre est disponible intégralement au format [![pdf](https://img.shields.
 
 ### 24.3 Le module `typing`
 
+- [Le type `Optional`](optional)
+
 ### 24.4 Types variables
 
 ### 24.5 Types génériques
 
+- [Les types génériques](generic)
+- [Le type paramétré `Protocol`](protocol)
+
 ### 24.6 Variance: covariance et contravariance
+
+- [Polygones](polygons)
