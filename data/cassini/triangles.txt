@@ -1,0 +1,300 @@
+Villejuif            87 48 50
+Juvisy               30 32 9
+Fontenay             61 39 1
+
+Juvisy               100 41 29
+Fontenay             34 18 37
+Montlhery            44 59 54
+
+Fontenay             66 17 40
+Montlhery            74 23 36
+Brie                 39 18 44
+
+Brie                 62 2 42
+Montlhery            65 30 31
+Montmartre           52 26 47
+
+Brie                 51 46 6
+Montmartre           54 18 55
+Montjai              73 54 59
+
+Montmartre           83 6 50
+Montjai              49 29 35
+S.Martin             47 23 35
+
+Montjai              39 9 25
+S.Martin             85 43 8
+S.Christophe         55 7 27
+
+S.Martin             37 36 32
+S.Christophe         87 45 0
+Clermont             54 38 28
+
+S.Christophe         39 19 24
+Clermont             107 51 32
+Coyvrel              32 49 4
+
+Clermont             57 39 28
+Coyvrel              62 21 23
+Noyers               59 59 9
+
+Coyvrel              57 11 15
+Noyers               60 16 52
+Sourdon              62 31 53
+
+Coyvrel              50 13 8
+Sourdon              69 17 34
+Arvillers            60 29 18
+
+Sourdon              52 0 46
+Arvillers            67 38 25
+Villersbretonneux    60 20 49
+
+Sourdon              44 26 58
+Villersbretonneux    75 0 54
+Amiens               60 32 8
+
+Villersbretonneux    99 5 45
+Sourdon              49 4 15
+Vignacourt           31 50 0
+
+Villersbretonneux    35 4 55
+Vignacourt           65 14 49
+Beauquene            79 40 16
+
+Villersbretonneux    35 10 40
+Beauquene            65 55 56
+Mailly               78 53 24
+
+Beauquene            59 3 33
+Mailly               67 59 20
+Sauty                52 57 7
+
+Beauquene            63 26 19
+Sauty                64 36 44
+Bonnieres            51 56 57
+
+Sauty                54 45 11
+Bonnieres            90 41 57
+Fieffe               34 32 52
+
+Sauty                34 26 1
+Fieffe               43 2 21
+S.Rebreuve           102 31 38
+
+Fieffe               72 53 57
+S.Rebreuve           77 5 8
+M.Chats              30 0 55
+
+Fieffe               37 18 54
+M.Chats              72 30 58
+Broulezele           70 10 8
+
+M.Chats              54 27 54
+Broulezele           56 12 27
+Hondscote            69 19 39
+
+Broulezele           44 15 0
+Hondscote            57 33 18
+Dunkerke             78 11 42
+
+Brie                 52 59 42
+Montlhery            63 59 16
+Observatoire         63 1 2
+
+Brie                 40 33 16
+Montlhery            65 16 27
+Malvoisine           74 10 17
+
+Montlhery            55 8 39
+Malvoisine           43 51 14
+Tréfou               81 0 7
+
+Malvoisine           65 46 32
+Tréfou               72 39 23
+Mespuy               41 34 5
+
+Malvoisine           58 26 59
+Mespuy               69 47 54
+La.Ch.Reine          51 45 7
+
+Mespuy               82 7 17
+La.Ch.Reine          45 41 3
+Pitiviers            52 11 40
+
+La.Ch.Reine          31 58 47
+Pitiviers            91 55 13
+Boiscommun           56 6 0
+
+Pitiviers            45 15 4
+Boiscommun           71 30 57
+La.Courdieu          63 13 59
+
+Boiscommun           43 33 49
+La.Courdieu          98 29 33
+Châteauneuf          37 56 38
+
+La.Courdieu          67 7 4
+Châteauneuf          74 6 41
+Orléans              38 46 15
+
+Châteauneuf          73 48 24
+Orléans              58 27 14
+Vouzon               47 44 22
+
+Châteauneuf          56 18 1
+Vouzon               89 5 30
+Sig.Oison            34 36 29
+
+Vouzon               65 19 18
+Sig.Oison            37 2 5
+Salbris              77 38 37
+
+Vouzon               44 29 47
+Salbris              89 14 17
+Sig.Ennordre         46 15 56
+
+Salbris              30 54 20
+Sig.Ennordre         92 35 32
+Sig.Mery             56 30 8
+
+Sig.Ennordre         34 37 32
+Sig.Mery             111 12 55
+Sig.Michavant        34 9 33
+
+Sig.Mery             66 32 36
+Sig.Michavant        76 5 29
+Bourges              37 21 55
+
+Sig.Michavant        34 18 37
+Bourges              116 15 12
+Dun.le.Roy           29 26 11
+
+Bourges              40 27 29
+Dun.le.Roy           101 48 16
+Morlac               37 44 15
+
+Dun.le.Roy           41 58 41
+Morlac               35 34 15
+Sig.Preaux           102 27 4
+
+Morlac               73 52 13
+Sig.Preaux           55 9 47
+Sig.Culand           50 58 0
+
+Morlac               37 28 59
+Sig.Culand           92 50 16
+Sig.S.Saturnin       49 40 45
+
+Sig.Culand           60 1 32
+Sig.S.Saturnin       80 57 8
+Sig.Lage             39 1 20
+
+Sig.Culand           33 18 31
+Sig.Lage             114 52 12
+Arpheuille           31 49 17
+
+Sig.Lage             56 22 2
+Arpheuille           84 8 36
+Sermur               39 29 22
+
+Sig.Lage             42 55 50
+Sermur               50 27 54
+T.d.Orgnat           86 36 16
+
+Sermur               102 32 33
+T.d.Orgnat           33 53 5
+S.Michel             43 34 22
+
+Sermur               45 26 45
+S.Michel             80 39 11
+Hermant              53 54 4
+
+Sermur               52 1 59
+Hermant              69 3 33
+Sig.Fagitiere        58 54 28
+
+Hermant              75 20 24
+Sig.Fagitiere        69 22 48
+Sig.Bort             35 16 48
+
+Sig.Fagitiere        50 1 6
+Sig.Bort             31 0 55
+Sig.Meimac           98 57 59
+
+Sig.Bort             80 3 58
+Sig.Meimac           52 6 31
+Sig.Ovassins         47 49 31
+
+Sig.Bort             65 4 36
+Sig.Ovassins         53 44 36
+Sig.Violan           61 10 48
+
+Sig.Ovassins         82 51 45
+Sig.Violan           51 22 27
+La.Bastide           45 45 48
+
+Sig.Violan           37 15 4
+La.Bastide           73 14 27
+S.Pierre             69 30 29
+
+La.Bastide           50 0 26
+S.Pierre             97 6 28
+Rupeiroux            32 53 6
+
+S.Pierre             37 45 19
+Rupeiroux            57 38 43
+Rodés                84 35 58
+
+Sig.Nord             83 39 4
+Sig.Sud              65 43 45
+Sig.Forceral         30 37 11
+
+Sig.Nord             36 36 45
+Sig.Forceral         89 36 2
+Sig.Tauch            53 47 13
+
+Sig.Forceral         105 26 15
+Sig.Tauch            33 9 44
+Perpignan            41 24 1
+
+Sig.Forceral         55 7 35
+Sig.Tauch            82 54 44
+Sig.Bugarach         41 57 41
+
+Sig.Tauch            92 45 7
+Sig.Bugarach         45 21 5
+Sig.Alaric           41 53 48
+
+Sig.Bugarach         36 3 57
+Sig.Alaric           75 30 27
+Carcassonne          68 25 36
+
+Sig.Alaric           48 9 10
+Carcassonne          86 48 38
+Sig.Nore             45 2 12
+
+Sig.Alaric           34 50 30
+Sig.Nore             93 46 50
+Sig.S.Pons           51 22 40
+
+Sig.Nore             82 31 0
+Sig.S.Pons           61 23 0
+Montredon            36 6 0
+
+Sig.S.Pons           58 43 15
+Montredon            24 57 18
+Sig.Montalet         96 19 27
+
+Montredon            67 59 25
+Sig.Montalet         71 27 7
+Sig.Gaste            40 33 28
+
+Montredon            36 18 31
+Sig.Gaste            91 10 5
+Rupeiroux            52 31 24
+
+Sig.Gaste            45 37 33
+Rupeiroux            40 1 8
+Rodés                94 21 19
+

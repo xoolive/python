@@ -1,0 +1,39 @@
+Montlhery           Montmartre          10 27 13
+Montmartre          S.Martin            0 34 41
+S.Martin            Clermont            9 51 26
+Clermont            Noyers              30 18 2
+Noyers              Sourdon             29 25 57
+Sourdon             Villersbretonneux   25 35 27
+
+Villersbretonneux   Beauquene           20 13 48
+Beauquene           Bonnieres           28 39 36
+Bonnieres           Fieffe              8 41 30
+Fieffe              Broulezele          0 6 26
+Broulezele          Dunkerke            10 15 51
+
+Montlhery           Malvoisine          38 45 49
+Malvoisine          Mespuy              31 36 25
+Mespuy              Pitiviers           3 31 36
+Pitiviers           Boiscommun          32 21 31
+Boiscommun          Châteauneuf         32 33 43
+Châteauneuf         Vouzon              26 42 0
+Vouzon              Sig.Ennordre        43 22 59
+Sig.Ennordre        Sig.Mery            2 14 27
+Sig.Mery            Bourges             4 28 55
+
+Bourges             Morlac              9 39 0
+Morlac              Sig.Culand          23 10 17
+Sig.Culand          Sig.Lage            3 57 55
+Sig.Lage            Sermur              4 47 51
+Sermur              Hermant             23 15 3
+Hermant             Sig.Bort            12 21 0
+Sig.Bort            Sig.Violan          19 5 17
+Sig.Violan          S.Pierre            11 6 24
+S.Pierre            Rodés               13 15 52
+
+Perpignan           Sig.Tauch           37 43 21
+Sig.Tauch           Sig.Alaric          8 53 46
+Sig.Alaric          Sig.Nore            23 20 21
+Sig.Nore            Montredon           19 38 11
+Montredon           Sig.Gaste           31 19 6
+Sig.Gaste           Rodés               11 53 16
