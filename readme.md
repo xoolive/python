@@ -8,3 +8,13 @@
 [https://www.xoolive.org/python/](https://www.xoolive.org/python/)
 
 Cette page, associée au livre _Programmation Python avancée – Guide pour une pratique élégante et efficace_ aux éditions Dunod (ISBN 978-2-10-081598-2), contient les ressources complémentaires et le code source des exemples présentés.
+
+### Installation de l'environrnement
+
+```sh
+git clone https://github.com/xoolive/python
+cd python
+conda env create -f environment.yml
+```
+
+Voir les détails sur la [page dédiée](https://www.xoolive.org/python/installation).

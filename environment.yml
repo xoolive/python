@@ -1,0 +1,34 @@
+name: advancedpython
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python>=3.9
+  - git # utiliser git clone
+  # Partie 2
+  - numpy
+  - matplotlib-base
+  - scipy
+  - jupyterlab
+  - cartopy
+  - cartes
+  - pandas
+  - altair
+  - ipyleaflet
+  # Partie 3
+  - uvloop
+  - aiohttp
+  # Partie 4
+  - opencv
+  - lxml
+  - beautifulsoup4
+  - pdfminer.six
+  - tqdm
+  - requests
+  - flask
+  - click
+  - pyqt
+  # Partie 5
+  - pytest
+  - cython
+  - freetype
