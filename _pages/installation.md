@@ -10,7 +10,7 @@ Au delà, la distribution Anaconda est fortement recommendée.
 
 ## Installation de l'environnement
 
-Télécharger le fichier [`environment.yml`]() puis entrer la commande:
+Télécharger le fichier [`environment.yml`](https://github.com/xoolive/python/blob/master/environment.yml) puis entrer la commande:
 
 ```sh
 conda env create -f environment.yml
