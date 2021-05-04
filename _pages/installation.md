@@ -6,7 +6,9 @@ back: /python
 
 La première partie du livre _Les bases du langage Python_ ne nécessite pas d'environnement particulier. N'importe quelle installation Python de base dont la version est supérieure à 3.8 suffira.
 
-Au delà, la distribution Anaconda est fortement recommendée.
+<div class="alert alert-danger">
+  Au delà, la distribution Anaconda est fortement recommandée.
+</div>
 
 ## Installation de l'environnement
 
