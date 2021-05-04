@@ -12,6 +12,6 @@ code: rayon.py
 
 Les données nécessaires sont dans le dossier `data/`.
 
-### Références 
+### Références
 
 - [Illustrations de La Méridienne de l'observatoire royal de Paris vérifiée dans toute l'étendue du royaume par de nouvelles observations](https://gallica.bnf.fr/ark:/12148/btv1b2600139h.item), par César-François Cassini de Thury, 1744
