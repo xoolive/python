@@ -33,7 +33,7 @@ Sinon, l'installation de l'environnement donne également accès à l'outil `git
 Avant chaque utilisation, entrer dans un terminal (ou une invite de commandes Anaconda sous Windows) la commande suivante:
 
 ```sh
-conda activate advancedpython
+conda activate pybook
 ```
 
 ## Installation optimisée de l'environnement
