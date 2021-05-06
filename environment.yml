@@ -1,4 +1,4 @@
-name: advancedpython
+name: pybook
 channels:
   - conda-forge
   - default
