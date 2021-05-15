@@ -31,4 +31,10 @@ dependencies:
   # Partie 5
   - pytest
   - cython
+  - pkg-config
   - freetype
+  # Outils supplémentaires
+  - black
+  - isort
+  - mypy
+  - flake8
