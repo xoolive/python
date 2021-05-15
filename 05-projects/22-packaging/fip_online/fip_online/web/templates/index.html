@@ -1,0 +1,41 @@
+{% extends "layout.html" %} {% block body %}
+
+<h1>La playlist {{radio}}</h1>
+<hr />
+
+{% include 'select.html' %}
+<div class="containeri d-flex justify-content-center" style="margin: 10px">
+  {% for res in results[-3:] %}
+
+  <img
+    class="img-thumbnail rounded float-left d-block"
+    style="max-width: 200px"
+    src="{{res['visual']}}"
+  />
+  {% endfor %}
+</div>
+<table class="table table-bordered table-hover table-condensed smaller">
+  <thead>
+    <tr>
+      <th>Début</th>
+      <th>Fin</th>
+      <th>Titre</th>
+      <th>Auteur</th>
+      <th>Album</th>
+      <th>Année</th>
+      <th>Label</th>
+    </tr>
+  </thead>
+  {% for res in results[::-1] %}
+  <tr>
+    <td>{{readtime(res['start'])}}</td>
+    <td>{{readtime(res['end'])}}</td>
+    <td>{{res['title']}}</td>
+    <td>{{res['authors']}}</td>
+    <td>{{res['titreAlbum']}}</td>
+    <td>{{res['anneeEditionMusique']}}</td>
+    <td>{{res.get('label', '').title() }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}

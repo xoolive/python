@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:400,700,400italic");
+
+body {
+  font-family: "Ubuntu";
+}
+
+.smaller td {
+  font-size: 90%;
+}

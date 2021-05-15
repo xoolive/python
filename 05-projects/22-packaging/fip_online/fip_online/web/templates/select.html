@@ -1,0 +1,22 @@
+<form
+  method="post"
+  accept-charset="utf-8"
+  role="form"
+  class="form-inline"
+  action="{{end_point}}"
+>
+  <select
+    name="radio"
+    id="radio"
+    onchange="this.form.submit()"
+    class="form-control"
+    data-style="btn-success"
+  >
+    {% for radio_name in api_points %}
+    <option value="{{radio_name}}"
+     {{"selected" if radio == radio_name else ""}} >
+      {{radio_name}}
+    </option>
+    {% endfor %}
+  </select>
+</form>
