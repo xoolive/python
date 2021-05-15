@@ -36,20 +36,20 @@ back: /python/
 - 16 -- [Interfaces et protocoles](protocols/)
 - 17 -- [L’ABC de la métaprogrammation](meta/)
 - 18 -- [La programmation concurrente](concurrent/)
-- Interlude -- [La démodulation de signaux FM](fmradio/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
+- Interlude -- [La démodulation de signaux FM](fmradio/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](fmradio/)
 
 ## Partie 4 -- Python, couteau suisse du quotidien
 
 - 19 -- [Comment manipuler des formats de fichiers courants?](swiss-army/)
-- 20 -- [Comment interroger et construire des services web?](requests/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
-- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
+- 20 -- [Comment interroger et construire des services web?](requests/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](requests/)
+- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](cli/)
 
 ## Partie 5 -- Développer un projet en Python
 
 - 22 -- [Publier une bibliothèque Python](packaging/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
 - 23 -- [Mettre en place un environnement de tests](testing/)
 - 24 -- [Annotations et typage statique](typing/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/typing.pdf)
-- 25 -- [Comment écrire une API Python vers une bibliothèque C?](api/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
+- 25 -- [Comment écrire une API Python vers une bibliothèque C?](api/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](api/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](api/)
 
 - Pour aller plus loin
 - Index
