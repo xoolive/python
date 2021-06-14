@@ -19,11 +19,11 @@ back: /python/
 ## Partie 2 -- L’écosystème Python
 
 - 5 -- [La suite logicielle Anaconda](anaconda/)
-- 6 -- [Le calcul numérique avec NumPy](numpy/)
+- 6 -- [Le calcul numérique avec NumPy](numpy/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational)
 - 7 -- [Produire des graphiques avec Matplotlib](matplotlib/)
 - 8 -- [La boîte à outils scientifiques SciPy](scipy/)
 - 9 -- [L’environnement interactif Jupyter](jupyter/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://colab.research.google.com/github/xoolive/python/blob/master/02-ecosysteme/09-jupyter.ipynb)
-- Interlude -- [Reconstruire une carte d’Europe](projections/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](/)
+- Interlude -- [Reconstruire une carte d’Europe](projections/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](/) -->
 - 10 -- [L’analyse de données avec Pandas](pandas/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/pandas.pdf)
 - 11 -- [La visualisation interactive avec Altair et ipyleaflet](altair/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](altair/)
 
@@ -32,17 +32,17 @@ back: /python/
 - 12 -- [La programmation fonctionnelle](functional/)
 - 13 -- [Décorateurs de fonctions et fermetures](decorateurs/)
 - 14 -- [Itérateurs, générateurs et coroutines](iteration/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/iteration.pdf)
-- 15 -- [La programmation orientée objet](objects/)
+- 15 -- [La programmation orientée objet](objects/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational)
 - 16 -- [Interfaces et protocoles](protocols/)
 - 17 -- [L’ABC de la métaprogrammation](meta/)
 - 18 -- [La programmation concurrente](concurrent/)
-- Interlude -- [La démodulation de signaux FM](fmradio/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](fmradio/)
+- Interlude -- [La démodulation de signaux FM](fmradio/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](fmradio/) -->
 
 ## Partie 4 -- Python, couteau suisse du quotidien
 
 - 19 -- [Comment manipuler des formats de fichiers courants?](swiss-army/)
-- 20 -- [Comment interroger et construire des services web?](requests/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](requests/)
-- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](cli/)
+- 20 -- [Comment interroger et construire des services web?](requests/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](requests/) -->
+- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](cli/) -->
 
 ## Partie 5 -- Développer un projet en Python
 
