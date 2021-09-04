@@ -6,6 +6,8 @@ back: /python/contents
 
 ## 15. La programmation orientée objet
 
+- [Programme complet d'une simulation de boids](boids)
+
 ### 15.1 Nuées d'oiseaux
 
 ### 15.2 Création d'une classe
