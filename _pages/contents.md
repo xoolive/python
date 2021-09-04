@@ -19,7 +19,7 @@ back: /python/
 ## Partie 2 -- L’écosystème Python
 
 - 5 -- [La suite logicielle Anaconda](anaconda/)
-- 6 -- [Le calcul numérique avec NumPy](numpy/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational)
+- 6 -- [Le calcul numérique avec NumPy](numpy/)
 - 7 -- [Produire des graphiques avec Matplotlib](matplotlib/)
 - 8 -- [La boîte à outils scientifiques SciPy](scipy/)
 - 9 -- [L’environnement interactif Jupyter](jupyter/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://colab.research.google.com/github/xoolive/python/blob/master/02-ecosysteme/09-jupyter.ipynb)
@@ -41,8 +41,8 @@ back: /python/
 ## Partie 4 -- Python, couteau suisse du quotidien
 
 - 19 -- [Comment manipuler des formats de fichiers courants?](swiss-army/)
-- 20 -- [Comment interroger et construire des services web?](requests/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](requests/) -->
-- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](cli/) -->
+- 20 -- [Comment interroger et construire des services web?](requests/)
+- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/)
 
 ## Partie 5 -- Développer un projet en Python
 
