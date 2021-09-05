@@ -31,3 +31,5 @@ Si vous avez un [dongle SDR](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/)
 ```zsh
 python fmradio.py 103.5M
 ```
+
+Enfin, un fichier plus gros `samples_long.rtl` est disponible à ce [lien](https://figshare.com/articles/dataset/16571522).
