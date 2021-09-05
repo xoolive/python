@@ -23,7 +23,7 @@ back: /python/
 - 7 -- [Produire des graphiques avec Matplotlib](matplotlib/)
 - 8 -- [La boîte à outils scientifiques SciPy](scipy/)
 - 9 -- [L’environnement interactif Jupyter](jupyter/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://colab.research.google.com/github/xoolive/python/blob/master/02-ecosysteme/09-jupyter.ipynb)
-- Interlude -- [Reconstruire une carte d’Europe](projections/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](/) -->
+- Interlude -- [Reconstruire une carte d’Europe](projections/)
 - 10 -- [L’analyse de données avec Pandas](pandas/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/pandas.pdf)
 - 11 -- [La visualisation interactive avec Altair et ipyleaflet](altair/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](altair/)
 
