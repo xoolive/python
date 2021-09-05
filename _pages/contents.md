@@ -36,7 +36,7 @@ back: /python/
 - 16 -- [Interfaces et protocoles](protocols/)
 - 17 -- [L’ABC de la métaprogrammation](meta/)
 - 18 -- [La programmation concurrente](concurrent/)
-- Interlude -- [La démodulation de signaux FM](fmradio/) ![soon](https://img.shields.io/badge/bient%C3%B4t-en%20ligne-informational) <!-- [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](fmradio/) -->
+- Interlude -- [La démodulation de signaux FM](fmradio/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](fmradio/)
 
 ## Partie 4 -- Python, couteau suisse du quotidien
 
