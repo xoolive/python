@@ -8,7 +8,7 @@ distances = dict()  # ①
 distances["Juvisy", "Villejuif"] = 5748  # ②
 distances["Sig.Nord", "Sig.Sud"] = 7928 + 5 / 6
 
-with Path("../../data/triangles.txt").open("r") as fh:
+with Path("../../data/cassini/triangles.txt").open("r") as fh:
     # Cette liste va stocker les valeurs intermédiaires par triangle
     triangle = list()
 
@@ -34,7 +34,7 @@ with Path("../../data/triangles.txt").open("r") as fh:
             triangle.clear()
 
 
-with Path("../../data/inclinaisons.txt").open("r") as fh:
+with Path("../../data/cassini/inclinaisons.txt").open("r") as fh:
     # On stocke dans total la longueur de la méridienne (en toises)
     total = 0
 
