@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<head>
+  <title>Utiliser des bibliothèques externes</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <link
+    rel="stylesheet"
+    href="https://pyscript.net/releases/2024.8.2/core.css"
+  />
+  <script
+    type="module"
+    src="https://pyscript.net/releases/2024.8.2/core.js"
+  ></script>
+</head>
+<body>
+  <h1>Utiliser des bibliothèques externes</h1>
+
+  Cet exemple propose d'utiliser pandas et altair avec PyScript.
+
+  <div id="altair-output"></div>
+  <div id="airport-codes"></div>
+
+  <script type="py" terminal></script>
+
+  <script type="py" config="pyconfig.toml" src="main.py"></script>
+</body>

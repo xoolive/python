@@ -1,0 +1,2 @@
+description = "Une petite démonstration de l'utilisation de pandas et altair"
+packages = ["altair", "pandas",]

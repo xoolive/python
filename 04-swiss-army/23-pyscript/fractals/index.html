@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Dessiner des fractales dans le navigateur</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <link
+      rel="stylesheet"
+      href="https://pyscript.net/releases/2024.1.1/core.css"
+    />
+    <script
+      type="module"
+      src="https://pyscript.net/releases/2024.1.1/core.js"
+    ></script>
+
+    <style>
+      #dessin {
+        margin: 5%;
+      }
+
+      #dessin svg {
+        width: 60vw;
+        height: 80vh;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Dessiner des fractales dans le navigateur</h1>
+
+    <select id="fractale" py-mouseup="tracer">
+      <option value="koch">Courbe de Koch</option>
+      <option value="sierpinsky">Fractale de Sierpinsky</option>
+      <option value="hilbert">Courbe de Hilbert</option>
+      <option value="crystal">Cristal</option>
+      <option value="snow_flake">Flocon de neige</option>
+    </select>
+
+    <input
+      id="ordre"
+      class="number-input"
+      type="number"
+      min="3"
+      max="5"
+      value="4"
+    />
+
+    <div id="dessin"></div>
+
+    <script type="py" src="./main.py" config="./pyscript.toml"></script>
+  </body>
+</html>
