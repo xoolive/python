@@ -7,7 +7,7 @@ back: /python
 La première partie du livre _Les bases du langage Python_ ne nécessite pas d'environnement particulier. N'importe quelle installation Python de base dont la version est supérieure à 3.12 suffira.
 
 <div class="alert alert-danger">
-  Au delà, l'environnement Pixi est fortement recommandé, qui facilite l'accès aux distributions Anaconda, est fortement recommandé.
+  Au delà, l'environnement Pixi, qui facilite l'accès aux distributions Anaconda, est fortement recommandé.
 </div>
 
 ## Installation de l'environnement
