@@ -1,10 +1,9 @@
 ---
-permalink: /concurrent/loop
+permalink: /asyncio/loop
 title: La boucle d'exécution
-back: /python/concurrent/
+back: /python/asyncio/
 layout: code
 partie: 03-pythonic
-chapitre: 18-concurrent
+chapitre: 19-asyncio
 code: loop.py
 ---
-
