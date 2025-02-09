@@ -1,0 +1,60 @@
+FipTextual {
+    layout: horizontal;
+    background: $boost;
+    margin: 1;
+    min-width: 50;
+    padding: 1;
+}
+
+VerticalScroll {
+    height: 1fr;
+}
+
+Entry {
+    content-align: left top;
+    height: 4;
+    width: 100%;
+    margin: 0;
+    padding-left: 1;
+    padding-right: 1;
+    border: solid #4c78ae;
+}
+
+Entry:hover {
+    border: solid #4c78ae;
+}
+
+Entry:focus {
+    border: tall #f58518;
+    text-style: bold;
+}
+Entry:focus-within {
+    background: $boost;
+}
+
+#heures {
+    width: 8;
+}
+#titre_album {
+    layout: horizontal;
+    text-style: bold;
+}
+#titre {
+    dock: left;
+    color: #f58518;
+    max-width: 50%
+}
+#album {
+    color: steelblue;
+}
+#annee, #label {
+    dock: right;
+    text-align: right;
+    max-width: 25;
+}
+#auteurs {
+    layout: horizontal
+}
+.youtube {
+    background: red 30% !important;
+}
