@@ -2,20 +2,26 @@
 permalink: /
 ---
 
+<a href="https://amzn.eu/d/g6nXxpe" class="logo">
+  <img src="/python/_static/9782100863297.jpg" alt="Programmation Python avancée" />
+</a>
+<a href="https://www.amazon.fr/dp/2100815989/" class="logo-mini">
+  <img src="/python/_static/9782100815982_thumb.jpg" alt="Programmation Python avancée" />
+</a>
+
 <div class="buy">
-Disponible le 5 mai 2021 chez
+La 1re édition est disponible depuis le 5 mai 2021, mais épuisée chez plusieurs distributeurs.
+</div>
+
+<div class="buy">
+2e édition disponible depuis le 15 janvier 2025 chez<br>
 <ul>
-  <li><a href="https://www.dunod.com/sciences-techniques/programmation-python-avancee-guide-pour-une-pratique-elegante-et-efficace">Dunod</a></li>
-  <li><a href="https://www.lalibrairie.com/livres/programmation-python-avancee--guide-pour-une-pratique-efficace_0-7273076_9782100815982.html">La Librairie</a></li>
-  <li><a href="https://www.amazon.fr/dp/2100815989/">Amazon</a></li>
+  <li><a href="https://www.dunod.com/sciences-techniques/programmation-python-avancee-guide-pour-une-pratique-elegante-et-efficace-0">Dunod</a></li>
+  <li><a href="https://www.lalibrairie.com/livres/programmation-python-avancee--guide-pour-une-pratique-elegante-et-efficace_0-10723831_9782100863297.html">La Librairie</a></li>
+  <li><a href="https://amzn.eu/d/g6nXxpe">Amazon</a></li>
   <li><a href="https://livre.fnac.com/a15701475/Xavier-Olive-Programmation-Python-avancee-Guide-pour-une-pratique-elegante-et-efficace">FNAC</a></li>
 </ul>
 </div>
-
-<a href="https://www.amazon.fr/dp/2100815989/" class="logo">
-  <img src="https://www.xoolive.org/python/_static/9782100815982_thumb.jpg"
-       alt="Programmation Python avancée" />
-</a>
 
 ## Code source
 
