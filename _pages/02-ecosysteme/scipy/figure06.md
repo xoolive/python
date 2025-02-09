@@ -1,11 +1,11 @@
 ---
 permalink: /scipy/fig06
-title: Figure 8.6
+title: Figure 7.6
 back: /python/scipy/
 layout: code
 partie: 02-ecosysteme
 chapitre: 08-scipy
-code: fig06.py
+code: fig07.py
 ---
 
 Localisation des suffixes -ac et -ay dans les toponymes

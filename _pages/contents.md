@@ -18,14 +18,14 @@ back: /python/
 
 ## Partie 2 -- L’écosystème Python
 
-- 5 -- [La suite logicielle Anaconda](anaconda/)
-- 6 -- [Le calcul numérique avec NumPy](numpy/)
-- 7 -- [Produire des graphiques avec Matplotlib](matplotlib/)
-- 8 -- [La boîte à outils scientifiques SciPy](scipy/)
-- 9 -- [L’environnement interactif Jupyter](jupyter/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://colab.research.google.com/github/xoolive/python/blob/master/02-ecosysteme/09-jupyter.ipynb)
+- 5 -- [Le calcul numérique avec NumPy](numpy/)
+- 6 -- [Produire des graphiques avec Matplotlib](matplotlib/)
+- 7 -- [La boîte à outils scientifiques SciPy](scipy/)
+- 8 -- [L’environnement interactif Jupyter](jupyter/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://colab.research.google.com/github/xoolive/python/blob/master/02-ecosysteme/09-jupyter.ipynb)
 - Interlude -- [Reconstruire une carte d’Europe](projections/)
-- 10 -- [L’analyse de données avec Pandas](pandas/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/pandas.pdf)
-- 11 -- [La visualisation interactive avec Altair et ipyleaflet](altair/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](altair/)
+- 9 -- [L’analyse de données avec Pandas](pandas/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/pandas.pdf)
+- 10 -- [La visualisation interactive avec Altair et ipyleaflet](altair/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](altair/)
+- 11 -- [L'analyse de tableaux multidimensionnels avec Xarray](xarray/)
 
 ## Partie 3 -- Écrire un Python naturel et efficace
 
@@ -36,20 +36,23 @@ back: /python/
 - 16 -- [Interfaces et protocoles](protocols/)
 - 17 -- [L’ABC de la métaprogrammation](meta/)
 - 18 -- [La programmation concurrente](concurrent/)
+- 19 -- [La programmation asynchrone](async/)
 - Interlude -- [La démodulation de signaux FM](fmradio/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](fmradio/)
 
 ## Partie 4 -- Python, couteau suisse du quotidien
 
-- 19 -- [Comment manipuler des formats de fichiers courants?](swiss-army/)
-- 20 -- [Comment interroger et construire des services web?](requests/)
-- 21 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/)
+- 20 -- [Comment manipuler des formats de fichiers courants?](swiss-army/)
+- 21 -- [Comment interroger et construire des services web?](requests/)
+- 22 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/)
+- 23 -- [Comment exécuter du code Python dans un navigateur web?](web/)
 
 ## Partie 5 -- Développer un projet en Python
 
-- 22 -- [Publier une bibliothèque Python](packaging/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
-- 23 -- [Mettre en place un environnement de tests](testing/)
-- 24 -- [Annotations et typage statique](typing/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/typing.pdf)
-- 25 -- [Comment écrire une API Python vers une bibliothèque C?](api/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](api/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](api/)
+- 24 -- [Manipuler des environnements Python](anaconda/)
+- 25 -- [Publier une bibliothèque Python](packaging/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
+- 26 -- [Mettre en place un environnement de tests](testing/)
+- 27 -- [Annotations et typage statique](typing/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/typing.pdf)
+- 28 -- [Optimiser du code Python](api/) [![ipynb](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](api/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](api/)
 
 - Pour aller plus loin
 - Index

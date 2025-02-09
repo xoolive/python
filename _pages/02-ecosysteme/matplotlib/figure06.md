@@ -1,6 +1,6 @@
 ---
 permalink: /matplotlib/fig06
-title: Figure 7.6
+title: Figure 6.6
 back: /python/matplotlib
 ---
 
@@ -8,4 +8,4 @@ De nombreux types de visualisations répondent à différents besoins: courbes s
 
 <img src="/python/_static/matplotlib/fig06.png" width="400px"/>
 
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F02-ecosysteme%2F07-matplotlib%2Ffig06.py&style=github-gist&showLineNumbers=on"></script>
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fxoolive%2Fpython%2Fblob%2Fmaster%2F02-ecosysteme%2F06-matplotlib%2Ffig06.py&style=github-gist&showLineNumbers=on"></script>

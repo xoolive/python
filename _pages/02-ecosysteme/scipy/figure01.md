@@ -1,10 +1,10 @@
 ---
 permalink: /scipy/fig01
-title: Figure 8.1
+title: Figure 7.1
 back: /python/scipy/
 layout: code
 partie: 02-ecosysteme
-chapitre: 08-scipy
+chapitre: 07-scipy
 code: fig01.py
 ---
 

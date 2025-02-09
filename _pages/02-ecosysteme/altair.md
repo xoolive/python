@@ -1,10 +1,10 @@
 ---
 permalink: /altair/
-title: Chapitre 11
+title: Chapitre 10
 back: /python/contents
 ---
 
-## 11. La visualisation interactive avec Altair et ipyleaflet
+## 10. La visualisation interactive avec Altair et ipyleaflet
 
 La place croissante que prend Jupyter dans l'écosystème Python et des
 technologies du web fait la part belle à des outils de visualisation
@@ -94,6 +94,7 @@ data.head()
     .dataframe thead th {
         text-align: right;
     }
+
 </style>
 <table border="0" class="dataframe">
   <thead>
@@ -169,7 +170,7 @@ L'usage est d'importer la bibliothèque Altair sous l'alias `alt`:
 >>> import altair as alt
 ```
 
-### 11.1 Encodages et marques
+### 11.0 Encodages et marques
 
 Les visualisations Altair sont basées sur trois types de données:
 
@@ -274,7 +275,6 @@ alt.Chart(data_france).encode(
     }).catch(console.error);
 </script>
 
-
 Un nuage de points sans encodage affiche un simple point. Bien que cette
 entrée ne renvoie pas d'erreur, elle n'est pas pertinente en soi.
 
@@ -302,7 +302,6 @@ alt.Chart(data).encode(
 ).mark_square()
 ```
 
-
 <div id="mark_continent"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/mark_continent.json";
@@ -311,7 +310,7 @@ alt.Chart(data).encode(
     }).catch(console.error);
 </script>
 
-### 11.2 Agrégation et composition
+### 11.1 Agrégation et composition
 
 L'agrégation de données correspond à l'opération `groupby()` en Pandas.
 Altair permet de définir ce type d'opération à calculer sur les données
@@ -340,6 +339,7 @@ data_2015.groupby("continent").agg({"GDP_per_capita": "median"})
     .dataframe thead th {
         text-align: left;
     }
+
 </style>
 <table border="0" class="dataframe">
   <thead>
@@ -388,7 +388,6 @@ alt.Chart(data_2015).encode(
 ).mark_bar(size=10)
 ```
 
-
 <div id="pib_continent"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/pib_continent.json";
@@ -413,7 +412,6 @@ alt.Chart(data).encode(
     alt.Color("continent:N"),
 ).mark_bar(size=10)
 ```
-
 
 <div id="nb_continent"></div>
 <script type="text/javascript">
@@ -505,7 +503,7 @@ graphes:
 - l'opérateur `+` associe plusieurs couches (_layers_) sur la même
   visualisation;
 - les opérateurs `|` et `&` concatènent deux visualisations côte à côte
-  (`hconcat` pour *horizontal*) ou l'une au-dessus l'autre (`vconcat` pour
+  (`hconcat` pour _horizontal_) ou l'une au-dessus l'autre (`vconcat` pour
   _vertical_).
 
 Lors de composition de graphes, il est possible de **factoriser des
@@ -565,7 +563,6 @@ base = (
 ) & base.properties(width=680)
 ```
 
-
 <div id="factorisation"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/factorisation.json";
@@ -574,7 +571,7 @@ base = (
     }).catch(console.error);
 </script>
 
-### 11.3 Transformation
+### 11.2 Transformation
 
 Nous avons vu avec les méthodes d'agrégation que les visualisations
 peuvent appeler des calculs intermédiaires sur les données d'origine.
@@ -589,14 +586,13 @@ suivant un critère, ou opérer des jointures sur d'autres tables.
 
 Les principales fonctions de transformation sont:
 
-|                             |                                                           |
+|                             |                                                           |
 | :-------------------------- | :-------------------------------------------------------- |
-| `transform_aggregate()`     | agrégation d'une colonne avec écrasement                  | 
-| `transform_joinaggregate()` | agrégation d'une colonne dans une nouvelle colonne        | 
-| `transform_calculate()`     | calcul d'une nouvelle grandeur                            | 
-| `transform_density()`       | calcul d'une estimation de densité                        | 
-| `transform_window()`        | calcul d'un critère par fenêtre (sous-ensemble de lignes) | 
-
+| `transform_aggregate()`     | agrégation d'une colonne avec écrasement                  |
+| `transform_joinaggregate()` | agrégation d'une colonne dans une nouvelle colonne        |
+| `transform_calculate()`     | calcul d'une nouvelle grandeur                            |
+| `transform_density()`       | calcul d'une estimation de densité                        |
+| `transform_window()`        | calcul d'un critère par fenêtre (sous-ensemble de lignes) |
 
 Dans l'exemple suivant, on crée une nouvelle _feature_ avec la
 population moyenne par pays dans l'intervalle d'années considéré, afin
@@ -633,7 +629,6 @@ constructeur `alt.Chart`.
     vegaEmbed("#transform_moyenne", spec, opt).then(function(result) {
     }).catch(console.error);
 </script>
-
 
 L'exemple suivant met en application toutes les notions vues jusqu'ici.
 On cherche à afficher les dix premiers pays suivant un critère donné sur
@@ -696,7 +691,6 @@ base = (
 )
 ```
 
-
 <div id="transform_complete"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/transform_complete.json";
@@ -705,7 +699,7 @@ base = (
     }).catch(console.error);
 </script>
 
-### 11.4 Interactivité
+### 11.3 Interactivité
 
 L'interactivité la plus simple est celle qui est induite par l'encodage
 de canal `tooltip`: au passage de la souris sur un point donné, un
@@ -788,7 +782,7 @@ base = (
     }).catch(console.error);
 </script>
 
-### 11.5 Configuration
+### 11.4 Configuration
 
 Il est possible de personnaliser l'affichage d'une visualisation Altair
 à trois niveaux:
@@ -821,7 +815,6 @@ base = (
 )
 ```
 
-
 <div id="configure"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/configure.json";
@@ -830,8 +823,7 @@ base = (
     }).catch(console.error);
 </script>
 
-
-### 11.6 Coordonnées géographiques
+### 11.5 Coordonnées géographiques
 
 Le support pour les structures de données géographiques dans Altair est
 encore jeune à l'heure où ces lignes sont écrites. Il est néanmoins
@@ -962,7 +954,6 @@ base = (
 ).configure_title(font="Ubuntu", fontSize=15, anchor="start")
 ```
 
-
 <div id="france"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/france.json";
@@ -1047,7 +1038,6 @@ chart = (
 ).configure_view(stroke=None).resolve_scale(color="independent")
 ```
 
-
 <div id="france_choroplethes"></div>
 <script type="text/javascript">
     var spec = "../_static/altair/france_choroplethes.json";
@@ -1056,8 +1046,7 @@ chart = (
     }).catch(console.error);
 </script>
 
-
-### 11.7 ipyleaflet
+### 11.6 ipyleaflet
 
 ipyleaflet[^4] est une bibliothèque Python spécifiquement conçue pour
 l'environnement Jupyter. Elle permet un portage de l'application
