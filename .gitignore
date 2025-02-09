@@ -1,3 +1,6 @@
 .vscode/
 Gemfile*
-tools*
+tools*# pixi environments
+.pixi
+*.egg-info
+
