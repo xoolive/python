@@ -1,4 +1,4 @@
 data/samples.rtl filter=lfs diff=lfs merge=lfs -text
+data/*.grib2 filter=lfs diff=lfs merge=lfs -text
 # GitHub syntax highlighting
 pixi.lock linguist-language=YAML
-
