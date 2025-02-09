@@ -44,7 +44,7 @@ back: /python/
 - 20 -- [Comment manipuler des formats de fichiers courants?](swiss-army/)
 - 21 -- [Comment interroger et construire des services web?](requests/)
 - 22 -- [Comment écrire un outil graphique ou en ligne de commande?](cli/)
-- 23 -- [Comment exécuter du code Python dans un navigateur web?](web/)
+- 23 -- [Comment exécuter du code Python dans un navigateur web?](pyscript/)
 
 ## Partie 5 -- Développer un projet en Python
 

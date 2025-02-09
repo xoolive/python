@@ -1,19 +1,21 @@
 ---
 permalink: /cli/
-title: Chapitre 21
+title: Chapitre 22
 back: /python/contents
 ---
 
-## 21. Comment écrire un outil graphique ou en ligne de commande?
+## 22. Comment écrire un outil graphique ou en ligne de commande?
 
-### 21.1 La gestion des arguments avec `click`
+### 22.1. Formater du texte pour le terminal avec Rich
 
-- L'outil `fip_click` est disponible dans le chapitre [22. Publier un projet Python](../packaging/)
+### 22.2. La gestion des arguments avec Click
 
-### 21.2 Les environnement plein écran avec `curses`
+- L'outil `fip_click` est disponible dans le chapitre [25. Publier un projet Python](../packaging/)
 
-- L'outil curses de la Figure 21.1 est disponible dans le chapitre [22. Publier un projet Python](../packaging/)
+### 22.3. Créer des applications pour le terminal avec Textual
 
-### 21.3 Les environnements graphiques avec Qt
+- L'outil Textual de la Figure 22.1 est disponible dans le chapitre [25. Publier un projet Python](../packaging/)
 
-- L'outil Qt de la Figure 21.2 est disponible dans le chapitre [22. Publier un projet Python](../packaging/)
+### 22.4. Les environnements graphiques avec Qt
+
+- L'outil Qt de la Figure 22.2 est disponible dans le chapitre [25. Publier un projet Python](../packaging/)

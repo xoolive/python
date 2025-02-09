@@ -1,0 +1,5 @@
+description = "Dessiner des fractales dans le navigateur"
+
+[[fetch]]
+from = "."
+files = ["svg.py", "tortle.py"]

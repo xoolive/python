@@ -4,6 +4,6 @@ title: Un téléchargement en streaming
 back: /python/requests/
 layout: code
 partie: 04-swiss-army
-chapitre: 20-requests
+chapitre: 21-requests
 code: stream_download.py
 ---
