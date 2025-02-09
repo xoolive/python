@@ -48,7 +48,7 @@ back: /python/
 
 ## Partie 5 -- Développer un projet en Python
 
-- 24 -- [Manipuler des environnements Python](anaconda/)
+- 24 -- [Manipuler des environnements Python](environment/)
 - 25 -- [Publier une bibliothèque Python](packaging/) [![py](https://img.shields.io/badge/-.py-3776AB?logo=python&logoColor=white)](/)
 - 26 -- [Mettre en place un environnement de tests](testing/)
 - 27 -- [Annotations et typage statique](typing/) [![pdf](https://img.shields.io/badge/-PDF-d73a49)](/python/_static/typing.pdf)

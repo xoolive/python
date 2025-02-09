@@ -1,10 +1,10 @@
 ---
 permalink: /packaging/
-title: Chapitre 22
+title: Chapitre 25
 back: /python/contents
 ---
 
-## 22. Publier une bibliothèque Python
+## 25. Publier une bibliothèque Python
 
 Le code de la bibliothèque `fip_online` est fourni dans le github du livre.
 
@@ -17,7 +17,7 @@ git clone https://github.com/xoolive/python
 Puis, se rendre dans le dossier du chapitre et installer la bibliothèque:
 
 ```bash
-cd python/05-projects/22-packaging/fip_online
+cd python/05-projects/25-packaging/fip_online  # depuis la v1 du livre
 pip install .
 ```
 
@@ -29,10 +29,19 @@ fip_online  # un client en ligne de commande avec click
 fip_gui  # une interface graphique en Qt
 ```
 
-### 22.1 Le packaging Python selon le PEP 517
+L'outil fip_textual est disponible depuis la v2 du livre:
 
-### 22.2 La gestion des fichiers de configuration
+```bash
+cd python/05-projects/25-packaging/fip_textual  # depuis la v2 du livre
+uv run fip_textual
+```
 
-### 22.3 Publier du code source
+### 25.1 Le packaging Python selon le PEP 517
 
-### 22.4 Publier des paquets Python
+### 25.2. Le packaging avec l’outil uv
+
+### 25.3. La gestion des fichiers de configuration
+
+### 25.4. Publier du code source
+
+### 25.5. Publier des paquets Python
