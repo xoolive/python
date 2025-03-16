@@ -10,8 +10,8 @@ back: /python/contents
 
 ### 23.2. L’affichage d’un message simple
 
-- [Utiliser des bibliothèques externes](airports/)
+- [Utiliser des bibliothèques externes](airports)
 
 ### 23.3. L’interactivité dans le navigateur
 
-- [Dessiner des fractales dans le navigateur](fractals/)
+- [Dessiner des fractales dans le navigateur](fractals)
